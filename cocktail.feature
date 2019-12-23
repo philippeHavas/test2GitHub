@@ -19,3 +19,4 @@ Feature: Cocktail Ordering
       | to       | message     | expected                            |
       | Juliette | Wanna chat? | From Romeo to Juliette: Wanna chat? |
       | Jerry    | Hei!        | From Romeo to Jerry: Hei!           |
+	  | Joe      | Hei!        | From Romeo to Jerry: Hei!           |
