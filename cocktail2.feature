@@ -20,3 +20,6 @@ Feature: Cocktail Ordering
       | Juliette | Wanna chat? | From Romeo to Juliette: Wanna chat? |
       | Jerry    | Hei!        | From Romeo to Jerry: Hei!           |
 	  | Nelly    | Hei!        | From Romeo to Jerry: Hei!           |
+      | Pauline  | Hei!        | From Romeo to Jerry: Hei!           |
+	  | Philippe | Hello!      | From Romeo to Jerry: Hei!           |
+
